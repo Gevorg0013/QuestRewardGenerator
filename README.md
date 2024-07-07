@@ -71,4 +71,4 @@ To keep things interesting and allow back transition in between 'b' <-> 's', the
 
 By combining these two components, the generator produces a well-balanced and engaging reward sequence.
 
-# TODO PUT IMAGE HERE -> combined.png
+![Combined Function](combined.png)
