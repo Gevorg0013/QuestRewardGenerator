@@ -60,7 +60,7 @@ This component creates a smooth transition in probabilities from 0 to 1, making 
 Note: The sigmoid function is inherently a smoothly increasing function. Therefore, using it alone will not facilitate the back-and-forth transitions between 's' and 'b', which are essential characteristics of the reward generator.
 
 # TODO PUT IMAGE HERE -> sigmoid.png
-![Alt text](https://raw.githubusercontent.com/gevorga/QuestRewardGenerator/main/sigmoid.png)
+![Sigmoid Function](sigmoid.png)
 
 
 
