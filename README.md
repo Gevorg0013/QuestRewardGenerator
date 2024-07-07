@@ -66,7 +66,8 @@ Note: The sigmoid function is inherently a smoothly increasing function. Therefo
 #### Sine Component
 To keep things interesting and allow back transition in between 'b' <-> 's', the sine component introduces multiple ups and downs in the probability, ensuring that the rewards alternate between 'b' and 's' in a wave-like pattern.
 
-# TODO PUT IMAGE HERE -> sin.png
+![Sinus Function](sin.png)
+
 
 By combining these two components, the generator produces a well-balanced and engaging reward sequence.
 
